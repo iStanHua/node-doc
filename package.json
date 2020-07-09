@@ -1,0 +1,20 @@
+{
+  "name": "node-doc",
+  "version": "1.0.0",
+  "description": "NodeJs api documentation",
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "get-pixels": "^3.3.2",
+    "pify": "^4.0.1",
+    "pump-promise": "^1.0.0",
+    "save-pixels": "^2.3.4",
+    "gifencoder": "^2.0.1",
+    "png-file-stream": "^1.2.1"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}

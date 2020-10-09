@@ -49,6 +49,7 @@ const path =
               ['/api/perf_hooks', 'perf_hooks'],
               ['/api/policy', 'policy'],
               ['/api/punycode', 'punycode'],
+              ['/api/tty', 'tty 终端'],
             ]
           }
         ]

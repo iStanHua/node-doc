@@ -7,7 +7,7 @@ const path =
     ],
 
     themeConfig: {
-      logo: '/images/logo.svg',
+      logo: '/images/favicon.ico',
       displayAllHeaders: true,
 
       sidebarDepth: 2,
